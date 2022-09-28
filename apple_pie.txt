@@ -1,0 +1,6 @@
+recipe
+chicken
+duck
+bamboo
+shoots
+leaves
